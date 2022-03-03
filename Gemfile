@@ -37,6 +37,7 @@ gem 'font-awesome-sass'
 gem 'simple_form'
 
 gem 'rails_admin', '~> 2.0'
+gem 'blazer'
 
 
 group :development, :test do  gem 'pry-byebug'
